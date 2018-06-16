@@ -1,0 +1,2 @@
+hw4
+-DCATKIN_DEVEL_PREFIX=/home/curtis/hw4/devel -DCMAKE_INSTALL_PREFIX=/home/curtis/hw4/install -G Unix Makefiles

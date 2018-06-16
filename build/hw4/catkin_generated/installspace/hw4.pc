@@ -1,0 +1,8 @@
+prefix=/home/curtis/hw4/install
+
+Name: hw4
+Description: Description of hw4
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/curtis/hw4/install/lib 
+Requires: 
